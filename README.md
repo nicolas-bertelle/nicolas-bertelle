@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nicolas-bertelle
+- 👀 I’m interested in e-sport and sport.
+- 🌱 I’m currently trying to learn github and react.
+- 💞️ I’m looking to collaborate on nothing.
+- ⚡ Fun fact: I have 5 characters level 200 on Dofus.
