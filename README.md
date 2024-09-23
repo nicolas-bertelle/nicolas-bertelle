@@ -3,3 +3,4 @@
 - 🌱 I’m currently trying to learn github and react.
 - 💞️ I’m looking to collaborate on nothing.
 - ⚡ Fun fact: I have 5 characters level 200 on Dofus.
+- 😞 Can't wait for Dofus Unity on December 2024.
